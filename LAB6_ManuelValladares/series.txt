@@ -1,0 +1,1 @@
+the oc,45,drama,ben mackenci,4,fox,ingles,si,si;the big bang theory,45,comedia,jim parsons,12,cbs,ingles,si,si;how i met your mother,45,comedia,Josh Radnor,9,fox,ingles,si,si;Friends,45,comedia,jennifer aniston,10,fox,ingles,si,si;flash,45,drama,Grant Gustin,4,Warner,ingles,si,si;5,5,5,5,5,5,ingles,si,si;99,99,99,99,99,99,ingles,si,si;6,66,6,6,6,6,ingles,si,si;
